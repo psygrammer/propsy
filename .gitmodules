@@ -1,0 +1,3 @@
+[submodule "bayesian_hackers/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers"]
+	path = bayesian_hackers/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
+	url = https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers.git
