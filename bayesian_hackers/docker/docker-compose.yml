@@ -1,5 +1,5 @@
 bayesian_hackers:
-  image: psygrammer/deepcon:0.4
+  image: psygrammer/deepcon:0.5
   ports:
     - "8888:8888"
     - "6006:6006"
